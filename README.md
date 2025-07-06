@@ -1,4 +1,4 @@
-![Uploading ChatGPT Image Jul 6, 2025, 10_43_29 PM.png…]()
+![ChatGPT Image Jul 6, 2025, 10_43_29 PM](https://github.com/user-attachments/assets/c231b8de-caf8-4588-b56a-89d0845ba69e)
 
 # 🚀 Sci-Fi Space Docking Game
 A retro-styled 2D spacecraft docking simulation built with Pygame. Use realistic thruster controls to align your ship and safely dock with the space station. A fun and visually engaging test of control and precision.
